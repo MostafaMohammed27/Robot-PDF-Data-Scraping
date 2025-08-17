@@ -1,0 +1,1 @@
+This robot will iterate through 1,000 PDF invoices, opening each one individually to scrape fields such as invoice number, invoice date, company name, and total amount, then transfer this data into an Excel sheet using UIPath.
